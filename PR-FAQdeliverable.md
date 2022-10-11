@@ -3,11 +3,12 @@
 
 ### A business tool for enterprise businesses to analysize marketing strategies and data analytics. 
 
-Preperation for an engaging presentation is always difficult, sometimes it is difficult to know what your audiences knowledge of the topic and interest levels are before you give your presentation. Overcoming any kind of stage fright is difficult, but with the tools that assist you in making the perfect presentation, even you can get through to the most extinguishable audience member,
+Preperation for an engaging presentation is always difficult, sometimes it is difficult to know what your audiences knowledge of the topic is and how interested they are before you give your presentation. Post a QR code or log into the app and you can get logged into a wealth of information about the presentation. Post questions, create polls, and with our interactive interest meter be able to discover in real-time where the most interesting points of your presentation is.
 
-As you are giving your presentation and you look out into the crowd and you see a bunch of faces staring down at their screens. It is not only frustrating, but it is difficult to know what the audience is looking for! Sometimes we wish we knew what the audience was thinking so we can make our presentation something that they will remember!
+As you are giving your presentation and you look out into the crowd and you see a bunch of faces staring down at their screens. It is not only frustrating, but it is difficult to know what the audience is interested or not! Sometimes we wish we knew what the audience was thinking, so we can make our presentation something that they will remember! We believe that there are many useful applications that Presentee can be used for.
 
-The most satisfaction from giving a presentation is when you know that you've caught the audiences attention on a topic that your speaking about, this is the point that Presentee is attempting to solve. 
+The most satisfaction from giving a presentation is when you know that you've caught the audiences attention on a topic that your speaking about, this is the point that Presentee is attempting to solve.
+
 
 By downloading the app and signing into the presenters community, you can provide them with real-time information of how well (or not so well) that you think that their presentation is going to be.
 
@@ -22,6 +23,21 @@ By using Presentee, you can have the assurance that your presentation is going t
 
 - [ ] A set of public frequently-asked questions and their answers. This should be a comprehensive list of everything that a customer might want to know about the product. 
 It should include any reasonable question that comes up when discussing the new product/feature with customers and customer-facing teams during the development of the product/feature. 
+
+Q: What does Presentee do?
+A: Presentee provides tools including live reactions, polls, chat, and online hosting for both remote and inperson presentations.
+
+Q: Who is Presentee for?
+A: Presentee is for both presenters and audience to create a more engaging presentation.
+
+Q: How much does Presentee cost?
+A: Presentee is free for anyone to use!
+
+Q: How do I present using Presentee?
+A: Simply sign up, upload your presentation, and click "Start Presentation."
+
+Q: How do I use Presentee while in the audience?
+A: Scan the QR code, or go to the link provided on the very first slide of every presentee presentation.
 
 ### Internal FAQs 
 - [ ] A set of private, internal frequently-asked questions and their answers in a format that can be understood by every other stakeholder. An FAQ might include wireframes of a 
